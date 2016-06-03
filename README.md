@@ -17,7 +17,9 @@ clone到本地，执行npm install
 如果你的hexo s没有关闭，可以直接在网页上刷新，看到你的文章效果
 
 ###发布
-执行 hexo deploy
+先执行 hexo g
+生成静态文件
+再执行 hexo deploy
 这个时候会默认提示你输入用户名和密码。这个时候输入。
 顺利的话跑完，就部署到https://nicefe.github.io上去了。
 
