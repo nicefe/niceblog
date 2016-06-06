@@ -15,6 +15,7 @@ clone到本地，执行npm install
 执行 hexo n '你的文章名'
 会在source/_posts下创建一个你的文章名的markdown文件，在里面写文章balbala
 如果你的hexo s没有关闭，可以直接在网页上刷新，看到你的文章效果
+**注意**:文章头上可以通过添加cover_index来设定首页上的图片地址
 
 ###发布
 先执行 hexo g

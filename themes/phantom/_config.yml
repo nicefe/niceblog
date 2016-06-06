@@ -20,10 +20,10 @@ about_footer: 致力于打造一个属于年轻人的自由分享社区。
 default_post_title: Hello World
 
 # Default post cover index page (Recommended)
-default_cover_index: "http://placehold.it/450x450"
+default_cover_index: "https://placeimg.com/450/450/nature"
 
 # Default post cover index page (Optional)
-default_cover_detail:
+default_cover_detail: ""
 
 # Show Dates for posts and pages
 show_dates:
